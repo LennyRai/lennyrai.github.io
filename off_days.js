@@ -1,1 +1,1 @@
-[{"20260404":"Basic"}]
+[{"20202612":"New Year's Day","20261010":"National Day","20261031":"Chiang Kai-shek's Birthday"}]
